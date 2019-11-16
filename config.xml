@@ -5,8 +5,8 @@
 	<description>Criado Por Juan Alan</description>
 	<author>Juan Alan dos Santos Rocha</author>
 
-	<icon src="icon-128.png" width="128" height="128" />
-	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
+	<icon src="www/icon-128.png" width="128" height="128" />
+	<icon src="www/icon-256.png" width="256" height="256" gap:role="default" />
 
 	<preference name="permissions" value="none"/>
 	<preference name="android-targetSdkVersion" value="27" />
